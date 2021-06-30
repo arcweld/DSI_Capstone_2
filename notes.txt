@@ -1,0 +1,6 @@
+https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan
+https://ti.arc.nasa.gov/c/13/
+Turbofan Engine Degradation Simulation Data Set
+
+NASA
+Prognostics Center of Excellence
